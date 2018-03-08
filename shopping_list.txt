@@ -1,6 +1,6 @@
-﻿add master add master
-
-111jgklsdjg;sj;lhgjd;fjhl;dj;
+﻿<<<<<<< HEAD
+老子想咋的就咋的
+>>>>>>> origin/feature1
 
 2222
 
